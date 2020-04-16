@@ -18,7 +18,7 @@ npm run build
 
 ### git
 ```
- git init // 初始化一个Git本地仓库
+ git init // 创建并初始化一个Git本地仓库
  
  git add <file> // 添加文件
  
@@ -28,7 +28,7 @@ npm run build
   
  git push -u origin master    // 第一次推送时
   
- git push origin master  // 第一次推送后，直接使用该命令即可推送修改
+ git push origin master  // 第一次推送后，直接使用该命令即可推送修改 ccc
 ```
 
 
