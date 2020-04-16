@@ -18,11 +18,11 @@ npm run build
 
 ### git
 ```
- git init
+ git init // 初始化一个Git本地仓库
  
- git add .
+ git add <file> // 添加文件
  
- git commit -m "initial commit"
+ git commit -m <message> // 提交到本地仓库
  
  git remote add origin 你的远程库地址  // 把本地库与远程库关联
   
