@@ -28,7 +28,7 @@ npm run build
   
  git push -u origin master    // 第一次推送时
   
- git push origin master  // 第一次推送后，直接使用该命令即可推送修改 ccc
+ git push origin master  // 第一次推送后，直接使用该命令即可推送修改
 ```
 
 
